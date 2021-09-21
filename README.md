@@ -29,15 +29,9 @@ Detailed activity of Topic
 
 
 After clicking 3D button model will download from dabase and following instruction in screen user will able to see model in AR
-![image](https://user-images.githubusercontent.com/61896510/134207610-1487b8c2-016b-4d20-b1fe-84b226d8c583.png)
+![image](https://user-images.githubusercontent.com/61896510/134207610-1487b8c2-016b-4d20-b1fe-84b226d8c583.png)![image](https://user-images.githubusercontent.com/61896510/134207738-44437e71-0df7-46d4-b430-827ad695e9cd.png)
 
-![image](https://user-images.githubusercontent.com/61896510/134207738-44437e71-0df7-46d4-b430-827ad695e9cd.png)
-
-![image](https://user-images.githubusercontent.com/61896510/134207790-5ecbd074-948b-499f-9d6a-f44ffe531aae.png)
-
-![image](https://user-images.githubusercontent.com/61896510/134207856-b5675274-4aaa-44af-bf1e-7892defa993e.png)
-
-![image](https://user-images.githubusercontent.com/61896510/134207913-825ec04f-b78f-4931-8c4a-6c4ddcb5d495.png)
+![image](https://user-images.githubusercontent.com/61896510/134207790-5ecbd074-948b-499f-9d6a-f44ffe531aae.png)![image](https://user-images.githubusercontent.com/61896510/134207856-b5675274-4aaa-44af-bf1e-7892defa993e.png)![image](https://user-images.githubusercontent.com/61896510/134207913-825ec04f-b78f-4931-8c4a-6c4ddcb5d495.png)
 
 
 
@@ -45,12 +39,7 @@ After clicking 3D button model will download from dabase and following instructi
 If user mark checkbox of teacher then it redirect to teacher panel and it will shows the uploded already uploded topic in particular category.Teacher will have to write topic ,write information topic ,select category from predifined list of category and select model to upload topic under particular category.
 
 
-![image](https://user-images.githubusercontent.com/61896510/134205615-def6af4a-3380-4042-a2ce-4e375ec7fa9a.png)
-
-![image](https://user-images.githubusercontent.com/61896510/134205686-f3c57dd9-ebc9-45fc-9630-65668a1b2f10.png)
-
-
-![image](https://user-images.githubusercontent.com/61896510/134205828-34b7996a-da35-4183-9154-01aa4a7f09e4.png)
+![image](https://user-images.githubusercontent.com/61896510/134205615-def6af4a-3380-4042-a2ce-4e375ec7fa9a.png)![image](https://user-images.githubusercontent.com/61896510/134205686-f3c57dd9-ebc9-45fc-9630-65668a1b2f10.png)![image](https://user-images.githubusercontent.com/61896510/134205828-34b7996a-da35-4183-9154-01aa4a7f09e4.png)
 
 
 Uploaded topic will be update in student panel
