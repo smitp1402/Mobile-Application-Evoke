@@ -13,7 +13,7 @@ There is two panel one is student and another is teacher .Teacher and student wi
 ![image](https://user-images.githubusercontent.com/61896510/134202984-bf9487b5-e9e5-4f56-a406-309634b3a115.png)
 
 
-## Log in Activity
+## Login Activity
 ![image](https://user-images.githubusercontent.com/61896510/134203206-80c125c7-d6ea-445d-bdee-459a5e50c2fd.png)
 
 
@@ -21,13 +21,11 @@ If user mark checkbox of student then it redirect to student panel and it will s
 ![image](https://user-images.githubusercontent.com/61896510/134203456-d9462033-ee2f-410d-9cd5-4075e39e6985.png)
 
 
-Student can open any topic in particular category and load model in AR by clicking view in 3D button and there is also text to speech feature ,in that 
-app describe the information of particular topic.
-
+Student can open any topic in particular category 
 ![image](https://user-images.githubusercontent.com/61896510/134204478-6b42d39c-e8e6-4890-8e4d-a78948005ca0.png)
 
+In Category student can see listed topics.
 ![image](https://user-images.githubusercontent.com/61896510/134207275-d37e6b06-6f0c-4aa3-89e8-01941b03b295.png)
-
 ![image](https://user-images.githubusercontent.com/61896510/134204552-f07bfdb2-aae6-4b1c-a737-ce060d171eb0.png)
 
 
