@@ -25,6 +25,7 @@ Student can open any topic in particular category.In Category student can see li
 ![image](https://user-images.githubusercontent.com/61896510/134204478-6b42d39c-e8e6-4890-8e4d-a78948005ca0.png)
 
 Detailed activity of Topic
+
 ![image](https://user-images.githubusercontent.com/61896510/134204552-f07bfdb2-aae6-4b1c-a737-ce060d171eb0.png)
 
 
@@ -54,12 +55,14 @@ User can also update personal information
 
 
 
+# Prerequisites
+https://developer.android.com/studio
 
-# 
+#  Deployment
  
  
  
- deployment
+
  
  acknowledge
  
