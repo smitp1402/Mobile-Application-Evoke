@@ -1,12 +1,11 @@
 # Mobile Application:Evoke
 
 # OBJECTIVE
-This application has made to increase curiosity towards learning in online education domain for 1 to 6th grade students.Sometime student not able to grasp and visualize topic by reading.what if student would able to see the topic related 3D model in real worold.Definitely this will become more interesting and easier to learn any topic.So by integreting 
-augmented reality in application we have achieved this and as result student will experience topic related 3D model stuck in real world.
+This application has been made to increase curiosity towards learning in the online education domain for 1 to 6th-grade students. Sometimes students are not able to grasp and visualize topics by reading. what if a student would be able to see the topic related to 3D models in the real world. Definitely, this will become more interesting and easier to learn any topic. So by integrating augmented reality in an application, we have achieved this, and as a result, a student will experience topic-related 3D models stuck in the real world.
 
 
 # FLOW OF APPLICATION
-There is two panel one is student and another is teacher .Teacher and student will have to registered to access application.
+There are two panels one is a student and another is a teacher. Teacher and student will have to register to access the application.
 
 
 ## Registration Activity
@@ -17,11 +16,11 @@ There is two panel one is student and another is teacher .Teacher and student wi
 ![image](https://user-images.githubusercontent.com/61896510/134203206-80c125c7-d6ea-445d-bdee-459a5e50c2fd.png)
 
 
-If user mark checkbox of student then it redirect to student panel and it will shows list of topic which is uploaded by teacher.
+If user mark checkbox of a student then it redirect to student panel and it will show list of a topic which is uploaded by the teach
 ![image](https://user-images.githubusercontent.com/61896510/134203456-d9462033-ee2f-410d-9cd5-4075e39e6985.png)
 
 
-Student can open any topic in particular category.In Category student can see listed topics.
+Students can open any topic in a particular category. In Category, the student can see listed topics.
 ![image](https://user-images.githubusercontent.com/61896510/134204478-6b42d39c-e8e6-4890-8e4d-a78948005ca0.png)
 
 Detailed activity of Topic
@@ -29,7 +28,7 @@ Detailed activity of Topic
 ![image](https://user-images.githubusercontent.com/61896510/134204552-f07bfdb2-aae6-4b1c-a737-ce060d171eb0.png)
 
 
-After clicking 3D button model will download from dabase and following instruction in screen user will able to see model in AR
+After clicking 3D button model will download from dabase and following instruction in screen ,user will able to see model in AR
 
 ![image](https://user-images.githubusercontent.com/61896510/134207610-1487b8c2-016b-4d20-b1fe-84b226d8c583.png)   ![image](https://user-images.githubusercontent.com/61896510/134207738-44437e71-0df7-46d4-b430-827ad695e9cd.png)
 
@@ -38,7 +37,7 @@ After clicking 3D button model will download from dabase and following instructi
 
 
 
-If user mark checkbox of teacher then it redirect to teacher panel and it will shows the uploded already uploded topic in particular category.Teacher will have to write topic ,write information topic ,select category from predifined list of category and select model to upload topic under particular category.
+If user mark checkbox of teacher then it will redirect to teacher panel and it will shows the  already uploded topic in particular category.Teacher will have to write topic ,write information topic ,select category from predifined list of category and select model to upload topic under particular category.
 
 
 ![image](https://user-images.githubusercontent.com/61896510/134205615-def6af4a-3380-4042-a2ce-4e375ec7fa9a.png)  ![image](https://user-images.githubusercontent.com/61896510/134205686-f3c57dd9-ebc9-45fc-9630-65668a1b2f10.png)   ![image](https://user-images.githubusercontent.com/61896510/134205828-34b7996a-da35-4183-9154-01aa4a7f09e4.png)
