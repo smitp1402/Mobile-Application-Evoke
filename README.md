@@ -16,11 +16,13 @@ There are two panels one is a student and another is a teacher. Teacher and stud
 ![image](https://user-images.githubusercontent.com/61896510/134203206-80c125c7-d6ea-445d-bdee-459a5e50c2fd.png)
 
 
-If user mark checkbox of a student then it redirect to student panel and it will show list of a topic which is uploaded by the teach
+If user mark checkbox of a student then it redirect to student panel and it will show list of a topic which is uploaded by the teacher
+
 ![image](https://user-images.githubusercontent.com/61896510/134203456-d9462033-ee2f-410d-9cd5-4075e39e6985.png)
 
 
 Students can open any topic in a particular category. In Category, the student can see listed topics.
+
 ![image](https://user-images.githubusercontent.com/61896510/134204478-6b42d39c-e8e6-4890-8e4d-a78948005ca0.png)
 
 Detailed activity of Topic
