@@ -49,10 +49,12 @@ If user mark checkbox of teacher then it redirect to teacher panel and it will s
 
 ![image](https://user-images.githubusercontent.com/61896510/134205686-f3c57dd9-ebc9-45fc-9630-65668a1b2f10.png)
 
+
 ![image](https://user-images.githubusercontent.com/61896510/134205828-34b7996a-da35-4183-9154-01aa4a7f09e4.png)
 
 
 Uploaded topic will be update in student panel
+
 ![image](https://user-images.githubusercontent.com/61896510/134207201-e1b49384-3c09-4844-883f-d7e6e7ce14e6.png)
 
 
