@@ -58,14 +58,35 @@ User can also update personal information
 # Prerequisites
 https://developer.android.com/studio
 
-#  Deployment
+
+# Getting Started
+1. Start up Android Studio
+
+2. Select the 'Open an existing Android Studio project' option.
+![image](https://user-images.githubusercontent.com/61896510/134210463-a58a53d8-6b07-49ca-81f4-c951ebb69696.png)
+
+3. Navigate to the folder in your filesystem, where you have unzipped and store the contents of this project. Open it.
+
+4. There are 2 methods to run an application in Android Studio. You can either set up a virtual device for development (Google Pixel 2, in my case) or hook up a mobile device instead.
+5. In the 2nd bar from the top, there there is a 'Run app' option. Alternatively, you can use Shift + F10 to run the project.
+![image](https://user-images.githubusercontent.com/61896510/134210503-741f1bde-3062-4256-96ab-842ba3104790.png)
+
+
+# Deployment
+https://developer.android.com/studio/run
+
+# Built with
+Google ARcore
+Sceneform
+Android Studio
+Firebase
+Mysql
+
  
  
  
 
  
- acknowledge
  
- author
  
  
