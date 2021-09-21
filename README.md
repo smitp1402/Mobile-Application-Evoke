@@ -30,7 +30,8 @@ Detailed activity of Topic
 
 
 After clicking 3D button model will download from dabase and following instruction in screen user will able to see model in AR
-![image](https://user-images.githubusercontent.com/61896510/134207610-1487b8c2-016b-4d20-b1fe-84b226d8c583.png)  ![image](https://user-images.githubusercontent.com/61896510/134207738-44437e71-0df7-46d4-b430-827ad695e9cd.png)
+
+![image](https://user-images.githubusercontent.com/61896510/134207610-1487b8c2-016b-4d20-b1fe-84b226d8c583.png)   ![image](https://user-images.githubusercontent.com/61896510/134207738-44437e71-0df7-46d4-b430-827ad695e9cd.png)
 
 ![image](https://user-images.githubusercontent.com/61896510/134207790-5ecbd074-948b-499f-9d6a-f44ffe531aae.png)   ![image](https://user-images.githubusercontent.com/61896510/134207856-b5675274-4aaa-44af-bf1e-7892defa993e.png)   ![image](https://user-images.githubusercontent.com/61896510/134207913-825ec04f-b78f-4931-8c4a-6c4ddcb5d495.png)
 
@@ -69,6 +70,7 @@ https://developer.android.com/studio
 
 4. There are 2 methods to run an application in Android Studio. You can either set up a virtual device for development (Google Pixel 2, in my case) or hook up a mobile device instead.
 5. In the 2nd bar from the top, there there is a 'Run app' option. Alternatively, you can use Shift + F10 to run the project.
+
 ![image](https://user-images.githubusercontent.com/61896510/134210503-741f1bde-3062-4256-96ab-842ba3104790.png)
 
 
