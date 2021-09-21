@@ -76,11 +76,11 @@ https://developer.android.com/studio
 https://developer.android.com/studio/run
 
 # Built with
-Google ARcore
-Sceneform
-Android Studio
-Firebase
-Mysql
+1.Google ARcore
+2.Sceneform
+4.Android Studio
+5.Firebase
+6.Mysql
 
  
  
